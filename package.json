@@ -2,7 +2,7 @@
   "name": "happymedium",
   "version": "1.0.0",
   "description": "A web app that scrapes articles from Medium.com and allows users to leave comments on articles. Deployed on Heroku and uses MongoDB.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
